@@ -1,4 +1,4 @@
 telebot
-subprocess
+yt_dlp
 os
 re
